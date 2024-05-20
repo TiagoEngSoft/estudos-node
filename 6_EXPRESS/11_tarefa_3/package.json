@@ -8,7 +8,7 @@
     "serve": "nodemon ./index.js localhost 5000"
   },
   "keywords": [],
-  "author": "Matheus <matheus@horadecodar.com.br> (http://www.horadecodar.com.br/)",
+  "author": "Tiago Santos",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
